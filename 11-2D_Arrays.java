@@ -30,7 +30,7 @@ public class Solution {
 
     public static void findMax(int[][] arr){
         int sum=0;
-        int maxSum=-63;
+        int maxSum=-64;
         //int iMax= int jMax=0;
         for (int i=0; i<4; i++){
             for (int j=0; j<4; j++){
